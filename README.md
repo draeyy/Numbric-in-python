@@ -1,2 +1,2 @@
-# Numbric-in-python
-Some python code in Numbrical computation
+# Numeric-in-python
+Some python code in Numerical computation
